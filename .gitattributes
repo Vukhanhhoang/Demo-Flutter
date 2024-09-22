@@ -1,0 +1,2 @@
+flutter_linux_3.10.5-stable.tar.xz filter=lfs diff=lfs merge=lfs -text
+my_first_flutter_app/google-chrome-stable_current_amd64.deb filter=lfs diff=lfs merge=lfs -text
